@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RestSuite" duration-ms="5331" started-at="2018-02-04T16:10:39Z" finished-at="2018-02-04T16:10:45Z">
+    <groups>
+    </groups>
+    <test name="RestTests" duration-ms="5331" started-at="2018-02-04T16:10:39Z" finished-at="2018-02-04T16:10:45Z">
+      <class name="com.tam.RestTests">
+        <test-method status="PASS" signature="testContentTypeResponseHeader()[pri:0, instance:com.tam.RestTests@29774679]" name="testContentTypeResponseHeader" duration-ms="3606" started-at="2018-02-04T21:40:39Z" finished-at="2018-02-04T21:40:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContentTypeResponseHeader -->
+        <test-method status="PASS" signature="testResponseContent()[pri:0, instance:com.tam.RestTests@29774679]" name="testResponseContent" duration-ms="1279" started-at="2018-02-04T21:40:43Z" finished-at="2018-02-04T21:40:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseContent -->
+        <test-method status="PASS" signature="testStatusCodeForUsers()[pri:0, instance:com.tam.RestTests@29774679]" name="testStatusCodeForUsers" duration-ms="422" started-at="2018-02-04T21:40:44Z" finished-at="2018-02-04T21:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCodeForUsers -->
+      </class> <!-- com.tam.RestTests -->
+    </test> <!-- RestTests -->
+  </suite> <!-- RestSuite -->
+</testng-results>

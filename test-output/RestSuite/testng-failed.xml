@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RestSuite]">
+  <test name="RestTests">
+    <classes>
+      <class name="com.tam.RestTests"/>
+    </classes>
+  </test> <!-- RestTests -->
+</suite> <!-- Failed suite [RestSuite] -->
